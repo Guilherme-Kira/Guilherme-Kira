@@ -1,3 +1,16 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1277fa&size=35&center=true&vCenter=true&width=1000&lines=Ola,+meu+nome+é+Guilherme+Silva;Eu+tenho+24+anos;Brasileiro+do+estado+da+Bahia;)](https://git.io/typing-svg)
+
+<p align="center"> Deus na base, niguem me segura! <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=guilherme-kira&show_icons=true&theme=radical)
+
+
+ &nbsp;
+ &nbsp;
+
+
+## My Skills
+
 #### Main Stack:
 
 
